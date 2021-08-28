@@ -1,9 +1,9 @@
 {
   "name": "YouTube Song Bot",
   "description": "A telegram bot To Download Youtube song ",
-  "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
+  "logo": "https://telegra.ph/file/ecfb5c457cf969055affa.jpg",
   "keywords": [
-    "Youtube Audio","Youtube music Downloader"
+    "Youtube Audio","Uoutube music Downloader"
   ],
   "repository": "https://github.com/BXBots/YouTubeSongDownloader",
   "success_url": "https://t.me/Youtubev2bxbot",
