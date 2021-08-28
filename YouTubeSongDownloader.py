@@ -30,15 +30,15 @@ def time_to_seconds(time):
 ## Commands --------------------------------
 @bot.on_message(filters.command(['start']))
 def start(client, message):
-   Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs = f'𝗛𝗲𝗹𝗹𝗼 @{message.from_user.username}\n\n𝙸𝚊𝚖  𝙰  𝚂𝚒𝚖𝚙𝚕𝚎  𝚈𝚘𝚞𝚃𝚞𝚋𝚎  𝙼𝚞𝚜𝚒𝚌  𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛 . 𝚂𝚎𝚗𝚍  𝙼𝚎  𝙰𝚗𝚢  𝚂𝚘𝚗𝚐  𝙽𝚊𝚖𝚎\n\n👲 𝙼𝚊𝚒𝚗𝚝𝚊𝚒𝚗𝚎𝚍  𝙱𝚢 : @BX_Botz')
+   Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs = f'Hello @{message.from_user.username}\n\n𝙸𝚊𝚖  𝙰  𝚂𝚒𝚖𝚙𝚕𝚎  𝚈𝚘𝚞𝚃𝚞𝚋𝚎  𝙼𝚞𝚜𝚒𝚌  𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚎𝚛 . 𝚂𝚎𝚗𝚍  𝙼𝚎  𝙰𝚗𝚢  𝚂𝚘𝚗𝚐  𝙽𝚊𝚖e\n\n👲 Group: @Tg_Hydra_Galaxy')
     message.reply_text(
         text=Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs , 
         quote=False,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('🤖 Update Channel', url='https://t.me/BX_Botz'),
-                    InlineKeyboardButton('👥Support Group', url='https://t.me/BxSupport')
+                    InlineKeyboardButton('⚜️ Click Here ⚜️', url='https://t.me/Tg_Hydra_Galaxy'),
+                    InlineKeyboardButton('⚜️ Click Here⚜️', url='https://t.me/Tg_Hydra_Galaxy')
                 ]
             ]
         )
