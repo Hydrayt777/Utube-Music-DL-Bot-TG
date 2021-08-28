@@ -1,5 +1,5 @@
 # YouTubeSongDownloader
-YouTube Song Downloader Bot For Telegram 🔮 Powerd By Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs. For Help Ask
+⭕ Utube Song Downloader Bot For Telegram ⭕ . For Help Ask
 
 3X Fast Telethon Based Bot ⚜
 
@@ -17,8 +17,8 @@ Easy To Deploy 🤗
 ![logo](https://telegra.ph/file/8d71bb9476d260a4fb712.jpg)
 
 # Report Any Error or Help Contact :
-[Channel 💬](https://t.me/Animemusicarchive6), 
-[Support ❤️](https://t.me/Yeageristbots) 
+[My Group 💬](https://t.me/Tg_Hydra_Galaxy), 
+
 
 Report your problem along with your name to This [PERSON](https://t.me/Yeageristbotsdev) 😪
 
